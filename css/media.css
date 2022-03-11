@@ -3,8 +3,7 @@
    header nav ul {
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
-      
+      justify-content: center; 
    }
 
    header nav ul li {
@@ -66,8 +65,7 @@
 }
 
 .faq .form-item {
-   width: 100%;
-   
+   width: 100%;   
 }
 
 .form-item:nth-child(3) {
@@ -141,12 +139,9 @@
       margin-bottom: 100px;
    }
 
-
    .map-region {
       margin-bottom: 100px;
    }
-
-    
 
 }
 
@@ -158,6 +153,5 @@
    .header-contacts {
       margin-top: 400px;
    }
-
 
 }

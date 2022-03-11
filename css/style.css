@@ -456,8 +456,6 @@ header nav a:hover {
    flex-wrap: wrap;
    
 }
-.footer-menu {
-}
 
 .footer-menu a {
 color:inherit;
@@ -470,10 +468,6 @@ color:inherit;
 .footer-menu li:not(:last-child) {
    margin-bottom: 15px;
 }
-
-
-
-
 
 .footer-contacts li:not(:last-child) {
    margin-bottom: 15px;
